@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\hot_filter.jpg",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\src\\main\\res\\drawable\\hot_filter.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\search.jpg",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\src\\main\\res\\drawable\\search.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cold.jpg",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\src\\main\\res\\drawable\\cold.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\search24.jpg",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\src\\main\\res\\drawable\\search24.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\clear_filter.jpg",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\src\\main\\res\\drawable\\clear_filter.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_on_mtrl.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cold_filter.jpg",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\src\\main\\res\\drawable\\cold_filter.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_copy_material.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_copy_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\earth.png",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\src\\main\\res\\drawable\\earth.png"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_cut_material.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_cut_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_paste_material.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_paste_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cold_mobile.jpg",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\src\\main\\res\\drawable\\cold_mobile.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\warm_mobile.jpg",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\src\\main\\res\\drawable\\warm_mobile.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\warm.jpg",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\src\\main\\res\\drawable\\warm.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_share_material.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_share_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\searchv2.jpg",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\src\\main\\res\\drawable\\searchv2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_selectall_material.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_selectall_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\warm_filter.jpg",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\src\\main\\res\\drawable\\warm_filter.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\delete32.jpg",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\src\\main\\res\\drawable\\delete32.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_checkbox_checked_mtrl.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_off_mtrl.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\hot.jpg",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\src\\main\\res\\drawable\\hot.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\pencil32.jpg",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\src\\main\\res\\drawable\\pencil32.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\hot_mobile.jpg",
+        "source": "C:\\Users\\Silvia\\Source\\Repos\\TGIMBAAndroid\\app\\src\\main\\res\\drawable\\hot_mobile.jpg"
+    }
+]
