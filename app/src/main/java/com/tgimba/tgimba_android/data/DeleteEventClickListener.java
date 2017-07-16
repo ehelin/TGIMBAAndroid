@@ -28,8 +28,7 @@ public class DeleteEventClickListener implements View.OnClickListener
     {
         try
         {
-            String callUrl = Constants.TGIMBA_BASE_API_URL
-                    + Constants.SUB_URL_API_GET_DELETE
+            String callUrl = Constants.SUB_URL_API_GET_DELETE
                     + "?dbIdStr=" + dbId
                     +"&encodedUser=" + Utilities.EncodeStringBase64(userName, this.ma)
                     + "&encodedToken=" + Utilities.EncodeStringBase64(token, this.ma);

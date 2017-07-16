@@ -220,8 +220,7 @@ public class ItemEdit extends Gui
 
             item += Constants.COMMA + dbId + Constants.COMMA + userName + Constants.COMMA_SEMICOLON;
 
-            String callUrl = Constants.TGIMBA_BASE_API_URL
-                    + Constants.SUB_URL_API_GET_UPSERT
+            String callUrl = Constants.SUB_URL_API_GET_UPSERT
                     + "?encodedBucketListItems=" + Utilities.EncodeStringBase64(item, this.ma)
                     +"&encodedUser=" + Utilities.EncodeStringBase64(userName, this.ma)
                     + "&encodedToken=" + Utilities.EncodeStringBase64(token, this.ma);

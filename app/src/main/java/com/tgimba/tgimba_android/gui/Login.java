@@ -69,8 +69,7 @@ public class Login extends Gui{
             String baseUser = this.usrNameET.getText().toString();
             String basePass = this.psdWrdET.getText().toString();
 
-            String callUrl = Constants.TGIMBA_BASE_API_URL
-                    + Constants.SUB_URL_API_ACCOUNT
+            String callUrl = Constants.SUB_URL_API_ACCOUNT
                     + "?encodedUser=" + Utilities.EncodeStringBase64(baseUser, this.ma)
                     + "&encodedPass=" + Utilities.EncodeStringBase64(basePass, this.ma);
 

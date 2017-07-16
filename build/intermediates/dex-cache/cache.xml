@@ -2,60 +2,74 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Silvia\Source\Repos\TGIMBAAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
-        <dex dex="C:\Users\Silvia\Source\Repos\TGIMBAAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_b6f56aaa84e9e95abf3d852f6c9c948696ea92e5.jar" />
-    </item>
-    <item
-        jar="C:\Users\Silvia\Source\Repos\TGIMBAAndroid\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
-        <dex dex="C:\Users\Silvia\Source\Repos\TGIMBAAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.0_36926bc74988f7daf56da8af8a7bcc9f30610c6e.jar" />
-    </item>
-    <item
-        jar="C:\Users\Silvia\Source\Repos\TGIMBAAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
-        jumboMode="false"
+        jar="C:\Users\Silvia\Source\Repos\androidNew\TGIMBAAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
         revision="23.0.1"
         sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
-        <dex dex="C:\Users\Silvia\Source\Repos\TGIMBAAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_833fbbc1025d4a10c79fa9a14e8211431300089d.jar" />
+        <dex dex="C:\Users\Silvia\Source\Repos\androidNew\TGIMBAAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.0_45e8d47fdd5fe83e5beb40cfeb70cfaea4dd3e3b\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Silvia\Source\Repos\TGIMBAAndroid\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
-        jumboMode="false"
+        jar="C:\Users\Silvia\Source\Repos\androidNew\TGIMBAAndroid\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
+        jumboMode="true"
         revision="23.0.1"
-        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
-        <dex dex="C:\Users\Silvia\Source\Repos\TGIMBAAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_f8428babb99323826cc0c64611783a05d8caec85.jar" />
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="C:\Users\Silvia\Source\Repos\androidNew\TGIMBAAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.0_c7b2f1b1ce192153f5c5b6e05034496ad49ab897\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Silvia\Source\Repos\TGIMBAAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="6e239441500605809818997dd63b62a947195f8c">
-        <dex dex="C:\Users\Silvia\Source\Repos\TGIMBAAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_265be9ed2131cfc7070ca359daaf0bb1518ca059.jar" />
-    </item>
-    <item
-        jar="C:\Users\Silvia\Source\Repos\TGIMBAAndroid\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
-        jumboMode="false"
+        jar="C:\Users\Silvia\Source\Repos\androidNew\TGIMBAAndroid\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
         revision="23.0.1"
         sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
-        <dex dex="C:\Users\Silvia\Source\Repos\TGIMBAAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.0_09c0c2832f984578edf18339163c4b5b6e33e290.jar" />
+        <dex dex="C:\Users\Silvia\Source\Repos\androidNew\TGIMBAAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.0_1eed515008de841d44c4f30fc9bf06107c2783a8\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Silvia\Source\Repos\TGIMBAAndroid\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
-        jumboMode="false"
+        jar="C:\Users\Silvia\Source\Repos\androidNew\TGIMBAAndroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
         revision="23.0.1"
-        sha1="292a9fa091757208efa65e77eef63088247e51f3">
-        <dex dex="C:\Users\Silvia\Source\Repos\TGIMBAAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_22cdd42cec51826f3d3deb6df8a6d9734bf5751e.jar" />
+        sha1="811947c005b6cf816d2419de000b710095f27d0f">
+        <dex dex="C:\Users\Silvia\Source\Repos\androidNew\TGIMBAAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_11b887d31bc9c9599611fc8df6d3fa5bda203785\classes.dex" />
     </item>
     <item
         jar="C:\Users\Silvia\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="23.0.1"
         sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
-        <dex dex="C:\Users\Silvia\Source\Repos\TGIMBAAndroid\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_cc3939fe090d166682493043c6ed512a728d980e.jar" />
+        <dex dex="C:\Users\Silvia\Source\Repos\androidNew\TGIMBAAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.0_cc3939fe090d166682493043c6ed512a728d980e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Silvia\Source\Repos\androidNew\TGIMBAAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="C:\Users\Silvia\Source\Repos\androidNew\TGIMBAAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.0_13345ecddc5abd43bf99c89e84cdaa5dafd75850\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Silvia\Source\Repos\androidNew\TGIMBAAndroid\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="C:\Users\Silvia\Source\Repos\androidNew\TGIMBAAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.0_4f948548253cd4531335e1c1df713fd7fd987582\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Silvia\Source\Repos\androidNew\TGIMBAAndroid\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="C:\Users\Silvia\Source\Repos\androidNew\TGIMBAAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.0_862c1877c932eb3c436660eb002b540e0723d960\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Silvia\Source\Repos\androidNew\TGIMBAAndroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ae0474b3d91b0bb47ea04cddc05c9b5105de9d68">
+        <dex dex="C:\Users\Silvia\Source\Repos\androidNew\TGIMBAAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fce8466285c8fde5c08ee8b0d71171eca9972443\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Silvia\Source\Repos\androidNew\TGIMBAAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="C:\Users\Silvia\Source\Repos\androidNew\TGIMBAAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.0_f5b0ab631ac259a155243014495ac02f19c069e7\classes.dex" />
     </item>
 
 </items>

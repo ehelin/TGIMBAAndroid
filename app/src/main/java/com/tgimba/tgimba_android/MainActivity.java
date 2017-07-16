@@ -2,6 +2,7 @@ package com.tgimba.tgimba_android;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.LinearLayout;
@@ -29,6 +30,15 @@ public class MainActivity extends AppCompatActivity {
     private String srchTerm = "";
     private String sortString = "";
     private BucketItemList item = null;
+    private Types.httpsEnum https = Types.httpsEnum.NotSet;
+
+    public Types.httpsEnum getHttps() {
+        return this.https;
+    }
+
+    public void setHttps(Types.httpsEnum https) {
+        this.https = https;
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -112,8 +122,7 @@ public class MainActivity extends AppCompatActivity {
         else if (guiType == Types.GuiStates.LoggedIn) {
             token = result;
             sortString = "";
-            String url = Constants.TGIMBA_BASE_API_URL
-                            + Constants.SUB_URL_API_GET_BUCKETLIST
+            String url = Constants.SUB_URL_API_GET_BUCKETLIST
                                 + "?encodedUserName=" + Utilities.EncodeStringBase64(userName, this)
                                 +"&encodedSortString=" + Utilities.EncodeStringBase64(sortString, this)
                                 + "&encodedToken=" + Utilities.EncodeStringBase64(token, this);
@@ -123,8 +132,7 @@ public class MainActivity extends AppCompatActivity {
         else if (guiType == Types.GuiStates.ReloadBucketItemListSorted)
         {
             sortString = result;
-            String url = Constants.TGIMBA_BASE_API_URL
-                    + Constants.SUB_URL_API_GET_BUCKETLIST
+            String url = Constants.SUB_URL_API_GET_BUCKETLIST
                     + "?encodedUserName=" + Utilities.EncodeStringBase64(userName, this)
                     +"&encodedSortString=" + Utilities.EncodeStringBase64(sortString, this)
                     + "&encodedToken=" + Utilities.EncodeStringBase64(token, this);
@@ -133,8 +141,7 @@ public class MainActivity extends AppCompatActivity {
         }
         else if (guiType == Types.GuiStates.ReloadBucketItemList)
         {
-            String url = Constants.TGIMBA_BASE_API_URL
-                    + Constants.SUB_URL_API_GET_BUCKETLIST
+            String url = Constants.SUB_URL_API_GET_BUCKETLIST
                     + "?encodedUserName=" + Utilities.EncodeStringBase64(userName, this)
                     +"&encodedSortString=" + Utilities.EncodeStringBase64(sortString, this)
                     + "&encodedToken=" + Utilities.EncodeStringBase64(token, this);

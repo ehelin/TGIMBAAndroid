@@ -72,8 +72,7 @@ public class Registration extends Gui{
         String passWord = this.psdWrdET.getText().toString();
         String email = this.emailET.getText().toString();
 
-        String callUrl = Constants.TGIMBA_BASE_API_URL
-                + Constants.SUB_URL_API_REGISTRATION
+        String callUrl =  Constants.SUB_URL_API_REGISTRATION
                 + "?encodedUser=" + Utilities.EncodeStringBase64(userName, this.ma)
                 +"&encodedEmail=" + Utilities.EncodeStringBase64(email, this.ma)
                 + "&encodedPass=" + Utilities.EncodeStringBase64(passWord, this.ma);

@@ -2,6 +2,7 @@ package com.tgimba.tgimba_android.misc;
 
 public class Constants {
     public static final String TGIMBA_BASE_API_URL = "http://www.tgimba.com";
+    public static final String HTTPS_TGIMBA_BASE_API_URL = "https://www.tgimba.com";
     public static final String SUB_URL_VALUE_TEST = "/api/Values";
     public static final String SUB_URL_API_ACCOUNT = "/api/account";
     public static final String SUB_URL_API_REGISTRATION = "/api/Registration";

@@ -1,6 +1,12 @@
 package com.tgimba.tgimba_android.misc;
 
 public class Types {
+    public enum httpsEnum {
+        NotSet,
+        True,
+        False
+    }
+
     public enum GuiStates {
         NotLoggedIn,
         LoginPanel,
