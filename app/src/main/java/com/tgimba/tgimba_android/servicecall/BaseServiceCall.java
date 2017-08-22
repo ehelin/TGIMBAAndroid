@@ -27,11 +27,7 @@ public class BaseServiceCall extends AsyncTask<String, String, String>
     private String getUrl(String subUrl) {
         String completeUrl = "";
 
-        if (ma.getHttps() == Types.httpsEnum.NotSet) {
-            completeUrl = Constants.HTTPS_TGIMBA_BASE_API_URL + subUrl;
-        } else {
-            completeUrl = Constants.TGIMBA_BASE_API_URL + subUrl;
-        }
+        completeUrl = Constants.HTTPS_TGIMBA_BASE_API_URL + subUrl;
 
         return completeUrl;
     }
@@ -41,38 +37,25 @@ public class BaseServiceCall extends AsyncTask<String, String, String>
         String result = "";
         int ctr = 0;
 
-        // HTTP Get
-        while(ctr < 2) {
+        try {
+            String urlStr = this.getUrl(callUrl);
 
-            try {
-                String urlStr = this.getUrl(callUrl);
+            URL url = new URL(urlStr);
+            HttpURLConnection urlConnection = (HttpURLConnection) url.openConnection();
+            urlConnection.setRequestProperty("connection", "close");
+            InputStream inputStream = urlConnection.getInputStream();
+            if (inputStream != null) {
+                BufferedReader br = new BufferedReader(new InputStreamReader((inputStream)));
+                StringBuilder sb = new StringBuilder(inputStream.available());
+                String line = "";
+                while ((line = br.readLine()) != null) {
+                    sb.append(line);
+                }
 
-                URL url = new URL(urlStr);
-                HttpURLConnection urlConnection = (HttpURLConnection) url.openConnection();
-                urlConnection.setRequestProperty("connection", "close");
-                InputStream inputStream = urlConnection.getInputStream();
-                if (inputStream != null) {
-                    BufferedReader br = new BufferedReader(new InputStreamReader((inputStream)));
-                    StringBuilder sb = new StringBuilder(inputStream.available());
-                    String line = "";
-                    while ((line = br.readLine()) != null) {
-                        sb.append(line);
-                    }
-
-                    result = sb.toString();
-                }
-            } catch (Exception e) {
-                if (ma.getHttps() == Types.httpsEnum.NotSet) {
-                    ma.setHttps(Types.httpsEnum.False);
-                }
-            } finally {
-                if (ma.getHttps() == Types.httpsEnum.NotSet) {
-                    ma.setHttps(Types.httpsEnum.True);
-                    break;
-                }
+                result = sb.toString();
             }
-
-            ctr++;
+        } catch (Exception e) {
+            Utilities.DisplayMsg(this.ma, "Error: " + e.getMessage());
         }
 
         return result;
