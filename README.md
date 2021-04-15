@@ -20,4 +20,4 @@ Blog Post(s):
 </ul>
 	
 ## How To Use
-Download the zip file, open up in Visual Studio, clean, restore packages, build and run.
+Download the zip file, open up in Android Studio, build and run.
